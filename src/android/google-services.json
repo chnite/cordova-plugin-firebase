@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "534944674711",
+    "firebase_url": "https://ellatips-ae5f7.firebaseio.com",
+    "project_id": "ellatips-ae5f7",
+    "storage_bucket": "ellatips-ae5f7.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:534944674711:android:2af3c82578a9ec95",
+        "android_client_info": {
+          "package_name": "com.absolutelydigital.ellatips"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "534944674711-pdueeq866v3a05pab5d4bhn6pp73hbqm.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAk2pN1kcc0XmEd_XaaTbzG09CE3bShr8U"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
